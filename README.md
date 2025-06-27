@@ -1,6 +1,8 @@
 # GitHub Auto Push
 🌐 Available in other languages: [Bahasa Indonesia](README.id.md)
 
+![](Screen-shot.png)
+
 A tool to automatically push files to GitHub repositories at specified intervals. Supports both single and multiple repository modes.
 
 Created by: [xsrazy](https://github.com/xsrazy)
