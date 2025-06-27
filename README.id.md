@@ -1,5 +1,7 @@
 # GitHub Auto Push
 
+![](Screen-shot.png)
+
 Tool untuk auto push file ke GitHub repository dengan interval waktu tertentu. Mendukung mode single dan multiple repository.
 
 Created by: [xsrazy](https://github.com/xsrazy)
