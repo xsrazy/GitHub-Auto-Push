@@ -1,0 +1,23 @@
+{
+  "name": "github-auto-push",
+  "version": "1.0.0",
+  "description": "Tool untuk auto push file ke GitHub repository",
+  "author": "https://github.com/xsrazy",
+  "type": "module",
+  "main": "push.js",
+  "bin": {
+    "github-auto-push": "./push.js"
+  },
+  "scripts": {
+    "start": "node push.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.2.6"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}
